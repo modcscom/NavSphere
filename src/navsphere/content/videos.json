@@ -91,7 +91,23 @@
       "icon": "PlayCircle",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1780752427042",
+          "title": "生地会考地理简答题答题模板",
+          "href": "https://www.bilibili.com/video/BV1Et421K7kB?spm_id_from=333.788.recommend_more_video.6&trackid=web_related_0.router-related-2589621-dpmnd.1780752519342.698&vd_source=04c4cf933bc504e3512caab3776146a4",
+          "description": "生地会考地理简答题答题模板",
+          "icon": "/assets/cover/cover_1780752609322.jpg",
+          "enabled": true,
+          "videoConfig": {
+            "type": "bilibili",
+            "bvid": "BV1Et421K7kB",
+            "aid": "1755262700",
+            "cid": "1572352116",
+            "p": 1
+          }
+        }
+      ],
       "subCategories": []
     },
     {
